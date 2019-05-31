@@ -5,3 +5,4 @@
 #read b
 #echo "The sum of a and b is $c: "
 echo "x is $x = 100"
+echo "hi hello"
